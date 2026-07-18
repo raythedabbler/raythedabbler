@@ -1,0 +1,10 @@
+baseURL: 'http://raythedabbler.com'
+languageCode: 'zh-cn'
+title: 'RayTheDabbler'
+theme: 'PaperMod'
+
+params:
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  Showcategories: true
