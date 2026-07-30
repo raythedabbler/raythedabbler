@@ -1,6 +1,6 @@
 +++
 date = '2026-07-30T18:33:42+08:00'
-draft = fasle
+draft = false
 title = 'Scribbling6'
 +++
 
