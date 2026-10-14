@@ -1,9 +1,10 @@
----
-title: "Content Placeholder"
-draft: false
-build:
-  render: never
-  list: never
-  publishResources: false
----
++++
+title = "第一章"
+date = 2026-10-14
+draft = false
++++
 
+
+锐浅今天什么也没做，只是试了试开始写自己的日记。内容只有几个字：”记录一些生活“。
+
+期待一下锐浅精彩又无聊的生活经历吧！
